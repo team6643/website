@@ -1,0 +1,7 @@
+{
+  "name": "team-6643",
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
