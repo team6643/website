@@ -13,14 +13,14 @@ const Home = () => {
                 <div class="flex flex-col justify-start items-start flex-grow overflow-hidden gap-[50px] col-span-2 lg:col-span-1">
                     <div class="flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 relative gap-2">
                         <p class="self-stretch flex-grow-0 flex-shrink-0 lg:text-[64px] text-5xl leading-16 font-medium text-left text-black">
-                            Phantom Lakes Regional
+                            Welcome to Team 6643
                         </p>
                         <p class="self-stretch flex-grow-0 flex-shrink-0 text-2xl text-left text-black">
                             {/* This content is currently being updated. Please check back later. */}
-                            30 March 2025
+                            Racine, WI
                         </p>
                     </div>
-                    <Button onClick={() => navigate("/blog/2025-03-phantom-regional")}>Learn more</Button>
+                    <Button onClick={() => navigate("/about")}>Learn more</Button>
                 </div>
             </div>
             <div class="flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 gap-2.5 py-8 bg-[#d4c6ff] px-5">
