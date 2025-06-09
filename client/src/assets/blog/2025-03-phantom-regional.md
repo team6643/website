@@ -5,7 +5,7 @@ Last weekend, we competed at the Phantom Lakes Regional in Mukwonago, Wisconsin.
 ~ Record: 5 wins – 7 losses in qualification matches 
 ~ Accumulated a total of 14 points (9 qualification + 5 award points) 
 
-Notable Matches
+**Notable Matches**
 Can be found at the Blue Alliance Link for Phantom Lakes, located here: https://www.thebluealliance.com/event/2025wimu.
 
 ~Qualification Match 56 – A solid 83–140 match against Teams 2062 & 6381. Walnuts & Bolts reached 83 points,  showcasing aggressive scoring and teamwork 
