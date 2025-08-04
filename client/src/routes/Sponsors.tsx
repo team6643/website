@@ -3,7 +3,6 @@ import baxterLogo from "../assets/baxter.svg";
 import dpiLogo from "../assets/dpi.svg";
 import educatorsLogo from "../assets/educators.svg";
 import caseysLogo from "../assets/caseys.svg";
-import northwesternMutualLogo from "../assets/northwestern-mutual.svg";
 import scjLogo from "../assets/scj.svg";
 import firstWisconsinLogo from "../assets/first-wisconsin.svg";
 import hcbLogo from "../assets/hcb.svg";
