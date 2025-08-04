@@ -86,11 +86,6 @@ const Sponsors = () => {
                         name: "Amy Bigna",
                     },
                     {
-                        name: "Northwestern Mutual",
-                        logo: northwesternMutualLogo,
-                        link: "https://www.northwesternmutual.com/"
-                    },
-                    {
                         name: "SC Johnson",
                         logo: scjLogo,
                         link: "https://www.scjohnson.com/"
