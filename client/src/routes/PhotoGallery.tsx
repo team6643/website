@@ -10,7 +10,6 @@ const PhotoGallery = () => {
             Here are some of our many team photos
             
         </div>
-          
         </div>
     );
 }
