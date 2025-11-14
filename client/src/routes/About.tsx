@@ -8,7 +8,7 @@ const About = () => {
                 <div class="flex flex-col items-center max-w-5xl text-center gap-4">
                     <h1 class="text-4xl font-bold">About us</h1>
                     <p>
-                        Team 6643 was founded in 2016 at Walden III High School as the first robotics team in the Racine area. Since then, we have competed in the FIRST Robotics Competition (FRC) and have been working to inspire the next generation of STEM leaders.
+                        Team 6643 was founded in 2016 at Walden III High School in Racine, Wisconsin. We strive to provide students with opportunities to grow in their knowledge and understanding of science, technology, engineering, mathematics, business, leadership, and marketing. We also promote growth both as individuals and as a team. While we are competitive, we also believe in being gracious professionals at school, in our community, and at competitions. What's more, our team is completely youth-run.
                     </p>
                     <p>
                         <a href={bp} class="text-[#4b3995] underline"  target="_blank" rel="noopener noreferrer">Click here</a> to view our business plan for the 2025 season.
