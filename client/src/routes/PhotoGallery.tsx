@@ -8,7 +8,8 @@ const PhotoGallery = () => {
             <p>
                 
             Here are some of our many team photos
-            
+
+                <p>
         </div>
         </div>
     );
