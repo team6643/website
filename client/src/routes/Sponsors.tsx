@@ -22,7 +22,7 @@ const Sponsors = () => {
                     Our team is extremely grateful for the support of our sponsors. We are proud to be sponsored by the following people and organizations.
                 </p>
                 <p>
-                    If you are interested in sponsoring our team, please contact us at <a class="text-[#4b3995] underline" href="mailto:contact@team6643.org">contact@team6643.org</a>.
+                    If you are interested in sponsoring our team, please contact us at <a class="text-[#4b3995] underline" href="mailto:walnutsandbolts@gmail.com">walnutsandbolts@gmail.com</a>.
                 </p>
                 <p>
                     Alternatively, you can donate to our team by visiting the <a class="text-[#4b3995] underline" href="https://racine.revtrak.net/donations/rusd-financial-donations/">Racine Unified School District financial donations page</a> and typing "Walden III High School Robotics" in the "Organization" field.
