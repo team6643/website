@@ -14,6 +14,7 @@ const About = () => {
                     <p>
                         <a href={bp} class="text-[#4b3995] underline"  target="_blank" rel="noopener noreferrer">Click here</a> to view our business plan for the 2025 season.
                     </p>
+                    <img class="flex-grow-0 flex-shrink-0 max-w-[560px] h-[350px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamLogo} />
                 </div>
             </div>
         </>
