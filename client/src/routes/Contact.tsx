@@ -8,7 +8,7 @@ const Contact = () => {
             <p>
                 
             Contact form is currently under construction. Please check back later.
-            In the meantime, you can reach us at <a class="text-[#4b3995] underline"  href="mailto:system@team6643.org">system@team6643.org</a>.</p>
+            In the meantime, you can reach us at <a class="text-[#4b3995] underline"  href="mailto:system@team6643.org">walnutsandbolts@gmail.com</a>.</p>
         </div>
         </div>
     );
