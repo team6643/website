@@ -1,4 +1,5 @@
 import bp from "/BP_2024.pdf";
+import TeamLogo from "../assets/TeamPhoto.jpg";
 
 const About = () => {
     return (
