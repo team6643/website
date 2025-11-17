@@ -6,7 +6,7 @@ import NotFound from "./routes/NotFound";
 import Sponsors from "./routes/Sponsors";
 import About from "./routes/About";
 import Blog from "./routes/Blog";
-import PhotoGallery "./routes/PhotoGallery";
+import PhotoGallery from "./routes/PhotoGallery";
 import FLL from "./routes/FLL";
 import Contact from "./routes/Contact";
 
