@@ -36,7 +36,7 @@ const Root = (props: ParentProps) => {
               <NavItem href="/" onClick={() => setResponsiveOpen(false)}>Home</NavItem>
               <NavItem href="/about" onClick={() => setResponsiveOpen(false)}>About</NavItem>
               <NavItem href="/sponsors" onClick={() => setResponsiveOpen(false)}>Sponsors</NavItem>
-                <NavItem href="/PhotoGallery" onClick={() => setResponsiveOpen(false)}>PhotoGallery</NavItem>
+                <NavItem href="/PhotoGallery" onClick={() => setResponsiveOpen(false)}>Photo Gallery</NavItem>
               <NavItem href="/fll" onClick={() => setResponsiveOpen(false)}>FLL</NavItem>
               <NavItem href="/contact" onClick={() => setResponsiveOpen(false)}>Contact us</NavItem>
               <Button onClick={logIn}>Log in</Button>
