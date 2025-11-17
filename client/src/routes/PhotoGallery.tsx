@@ -9,7 +9,7 @@ const PhotoGallery = () => {
                 
             Here are some of our many team photos
 
-                <p>
+            </p>
         </div>
         </div>
     );
