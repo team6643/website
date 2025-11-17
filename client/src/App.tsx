@@ -17,6 +17,7 @@ function App() {
         <Route path="/about" component={About} />
         <Route path="/sponsors" component={Sponsors} />
         <Route path="/fll" component={FLL} />
+        <Route path="/PhotoGallery" component={Photo_Gallery} />
         <Route path="/contact" component={Contact} />
         <Route path="/blog/:id" component={Blog} />
         <Route path="*" component={NotFound} />
