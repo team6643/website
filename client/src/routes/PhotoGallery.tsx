@@ -8,7 +8,7 @@ const PhotoGallery = () => {
             <p>
             Here are some of our many team photos
             </p>
-            <img class="flex-grow-0 flex-shrink-0 max-w-[560px] h-[350px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={https://github.com/team6643/website/blob/197625dd49028fe270a589a414152dd024aeeef1/client/src/assets/HS%20Robotics%2025%20yearbook/20250208_163539.jpg} />
+            <img class="flex-grow-0 flex-shrink-0 max-w-[560px] h-[350px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={20250208_163539} />
         </div>
         </div>
     );
