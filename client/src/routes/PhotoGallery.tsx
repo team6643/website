@@ -10,7 +10,7 @@ const PhotoGallery = () => {
             Here are some of our many team photos
             </p>
             <div className="w-[300px] h-[300px] overflow-hidden rounded-xl">
-            <img class="flex-grow-0 flex-shrink-0 max-w-[560px] h-[350px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1 object-cover" src={TeamWithAlgae} />
+            <img class="w-full h-full object-cover" src={TeamWithAlgae} />
             </div>
         </div>
         </div>
