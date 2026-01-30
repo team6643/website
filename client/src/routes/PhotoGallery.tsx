@@ -1,4 +1,4 @@
-import TeamWithAlgae from "../assets/hsyearbook/20250208_163539.jpg";
+import TeamWithAlgae from "../assets/HS Robotics 25 yearbook/20250208_163539.jpg";
 const PhotoGallery = () => {
     return (
 
