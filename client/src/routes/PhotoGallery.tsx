@@ -1,4 +1,4 @@
-import 20250208_163539 from ".../assets/hsyearbook/20250208_163539.jpg";
+import 20250208_163539 from "../assets/hsyearbook/20250208_163539.jpg";
 const PhotoGallery = () => {
     return (
 
