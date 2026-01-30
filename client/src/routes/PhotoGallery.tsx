@@ -1,4 +1,4 @@
-import TeamwithAlgae "...assets/hsyearbook/20250208_163539.jpg"
+import TeamwithAlgae from ".../assets/hsyearbook/20250208_163539.jpg"
 const PhotoGallery = () => {
     return (
 
