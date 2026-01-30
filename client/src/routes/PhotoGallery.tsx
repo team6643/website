@@ -9,7 +9,7 @@ const PhotoGallery = () => {
             <p>
             Here are some of our many team photos
             </p>
-            <img class="flex-grow-0 flex-shrink-0 max-w-[560px] h-[350px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamWithAlgae} />
+            <img class="flex-grow-0 flex-shrink-0 max-w-[500px] h-[300px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamWithAlgae} />
         </div>
         </div>
     );
