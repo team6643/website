@@ -9,7 +9,13 @@ const PhotoGallery = () => {
             <p>
             Here are some of our many team photos
             </p>
-            <img class="flex-grow-0 flex-shrink-0 max-w-[500px] h-[400px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamWithAlgae} />
+            <ImageBox
+        src="TeamWithAlgae"
+        width={400}
+        height={200}
+        borderColor="blue"
+      />
+            <img class="flex-grow-0 flex-shrink-0 max-w-[500px] h-[300px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamWithAlgae} />
         </div>
         </div>
     );
