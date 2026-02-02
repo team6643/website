@@ -12,14 +12,10 @@ const PhotoGallery = () => {
             </p>
          <div class="w-48 h-48 overflow-hidden rounded-lg">
           <img
-            src="TeamWithAlgae"
+            src={TeamWithAlgae}
             alt="photo"
             className="w-full h-full object-cover"
           />
-        </div>
-
-            <img class="flex-grow-0 flex-shrink-0 max-w-[500px] h-[300px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamWithAlgae} />
-        </div>
         </div>
     );
 }
