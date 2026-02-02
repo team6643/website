@@ -17,5 +17,7 @@ const PhotoGallery = () => {
             className="w-full h-full object-cover"
           />
         </div>
+        </div>
+        </div>
     );
 }
