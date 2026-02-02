@@ -1,4 +1,5 @@
 import TeamWithAlgae from "../assets/HS Robotics 25 yearbook/20250208_163539.jpg";
+
 const PhotoGallery = () => {
     return (
 
@@ -9,12 +10,14 @@ const PhotoGallery = () => {
             <p>
             Here are some of our many team photos
             </p>
-            <ImageBox
-        src="TeamWithAlgae"
-        width={400}
-        height={200}
-        borderColor="blue"
-      />
+         <div class="w-48 h-48 overflow-hidden rounded-lg">
+          <img
+            src="TeamWithAlgae"
+            alt="photo"
+            className="w-full h-full object-cover"
+          />
+        </div>
+
             <img class="flex-grow-0 flex-shrink-0 max-w-[500px] h-[300px] bg-[#d9d9d9] rounded-xl col-span-2 lg:col-span-1" src={TeamWithAlgae} />
         </div>
         </div>
